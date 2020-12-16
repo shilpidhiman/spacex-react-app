@@ -1,3 +1,6 @@
+#Screenshot of the lighthouse report
+![image](https://user-images.githubusercontent.com/13480168/102385989-8328ee80-3ff4-11eb-963b-e31fddd2b3bd.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
