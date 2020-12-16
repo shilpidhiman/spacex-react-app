@@ -1,3 +1,13 @@
+The task was to make an UI app with a list of the past SpaceX launches along with an associated details page.
+I created a Responsive UI react app. 
+The initial launch programs landing page is server side rendered.
+
+# END RESULT
+
+![image](https://user-images.githubusercontent.com/13480168/102390776-daca5880-3ffa-11eb-80d3-bc621027b2ff.png)
+![image](https://user-images.githubusercontent.com/13480168/102390869-f897bd80-3ffa-11eb-98c4-a7457e6c4a81.png)
+![image](https://user-images.githubusercontent.com/13480168/102390959-149b5f00-3ffb-11eb-9e67-a3fc19c3f75a.png)
+
 #Screenshot of the lighthouse report
 ![image](https://user-images.githubusercontent.com/13480168/102385989-8328ee80-3ff4-11eb-963b-e31fddd2b3bd.png)
 
