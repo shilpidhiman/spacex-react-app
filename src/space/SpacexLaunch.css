@@ -1,0 +1,28 @@
+.space-card {
+    width: 14.5rem;
+    padding: 1rem;
+    margin-bottom: 21px;
+    height:440px;
+
+}
+.space-image {
+    background-color: #ffffff;
+    height:180px;
+    width:180px;
+}
+.space-mission-flight {
+    color: #1d1e2e;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.space-detail {
+    color: #000000;
+    font-size: 16px;
+    font-weight:bold;
+}
+
+.spacedetail-value {
+    color: #666783;
+}

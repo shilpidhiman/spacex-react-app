@@ -1,0 +1,65 @@
+body {
+  background-color: #ffffff;
+}
+
+.App {
+  background-color: #F2F2F2;
+}
+
+
+.App-header {
+  /* display: flex;
+  flex-direction: column; */
+  font-size: calc(22px + 2vmin);
+  color: #0A0A0A;
+  /* padding-left: 16px; */
+  font-weight: bold;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.App-filter-card {
+  width: 18rem;
+  margin-bottom: 15px;
+}
+
+.filter-header {
+  color: #111111;
+}
+
+.filter-heading {
+  text-align: center !important;
+  margin-top: 1rem;
+}
+
+.launch-year {
+  text-align: center !important;
+  margin-top: -1rem;
+}
+
+.filters-hr {
+  margin: 0.4rem;
+}
+
+.button-container {
+  width: 100%;
+  padding-left: 15px;
+  padding-right: 15px;
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+
+.DevelopersName {
+  text-align: center;
+}
+
+.button-filter {
+  flex: 0 40%;
+  margin: 10px;
+  background-color: #d2f8d2;
+  color:black
+}
+
